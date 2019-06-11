@@ -1,0 +1,9 @@
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\obj\Debug\CounterTillSystem.csprojAssemblyReference.cache
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\obj\Debug\CounterTillSystem.csproj.CoreCompileInputs.cache
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\bin\Debug\CounterTillSystem.dll
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\bin\Debug\CounterTillSystem.pdb
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\obj\Debug\CounterTillSystem.dll
+C:\PersonalWorkspaces\CheckoutSystem\CounterTill\obj\Debug\CounterTillSystem.pdb
